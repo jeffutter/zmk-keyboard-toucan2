@@ -32,15 +32,6 @@
         };
     };
 
-    /* conditional_layers {
-        compatible = "zmk,conditional-layers";
-
-        tri_layer {
-            if-layers = <1 7>;
-            then-layer = <2>;
-        };
-    }; */
-
     keymap {
         compatible = "zmk,keymap";
 
