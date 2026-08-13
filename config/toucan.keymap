@@ -54,7 +54,7 @@
         nav {
             display-name = "NAV";
             bindings = <
-&none  &none  &none  &kp UP_ARROW  &none  &none  &none  &none  &none  &none  &none  &none  &trans  &none  &kp LEFT  &kp DOWN_ARROW  &kp RIGHT  &none  &kp RA(RS(RCTRL))  &kp RIGHT_SHIFT  &kp RCTRL  &kp RIGHT_ALT  &kp RIGHT_GUI  &none  &none  &studio_unlock  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &trans  &trans  &trans  &none  &none  &trans
+&none  &none  &none  &kp UP_ARROW  &none  &none  &none  &none  &none  &none  &none  &none  &trans  &none  &kp LEFT  &kp DOWN_ARROW  &kp RIGHT  &none  &kp RA(RS(RCTRL))  &kp RIGHT_SHIFT  &kp RCTRL  &kp RIGHT_ALT  &kp RIGHT_GUI  &none  &none  &studio_unlock  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
